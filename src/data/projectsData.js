@@ -5,7 +5,7 @@ import four from '../assets/svg/projects/eleven.svg'
 import five from '../assets/svg/projects/sample.svg'
 import six from '../assets/svg/projects/seven7.svg'
 import seven from '../assets/svg/projects/four4.svg'
-// import eight from '../assets/svg/projects/eight.svg'
+import eight from '../assets/svg/projects/seven.svg'
 
 
 export const projectsData = [
@@ -31,9 +31,9 @@ export const projectsData = [
         id: 3,
         projectName: 'ShareSmiles',
         projectDesc: 'Developed a social media web app  allowing users to create accounts, post photos, and interact with the photos of their friends.',
-        tags: ['JavaScript','NodeJS', 'React','Firebase'],
-        code: '',
-        demo: '',
+        tags: ['JavaScript','NodeJS', 'React','MongoDB'],
+        code: 'https://github.com/sahil-1811/ShareSmiles',
+        demo: 'https://github.com/sahil-1811/ShareSmiles',
         image: three
     },
     {
@@ -72,15 +72,15 @@ export const projectsData = [
         demo: 'https://github.com/sahil-1811/MemeGenerator',
         image: seven
     },
-    // {
-    //     id: 8,
-    //     projectName: 'Car Pooling System',
-    //     projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
-    //     tags: ['Flutter', 'React'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: eight
-    // },
+    {
+        id: 8,
+        projectName: 'Tenzies',
+        projectDesc: "Tenzies is a React-based game that tests the player's quick thinking and reflexes",
+        tags: ['React'],
+        code: 'https://github.com/sahil-1811/Tenzies',
+        demo: 'https://github.com/sahil-1811/Tenzies',
+        image: eight
+    },
 ]
 
 

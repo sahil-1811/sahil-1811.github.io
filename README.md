@@ -62,7 +62,7 @@ git --version
 
 ```
 git clone hhttps://github.com/sahil-1811/sahil-1811.github.io.git
-cd axit54.github.io
+cd sahil-1811.github.io
 ```
 ### Install packages from the root directory
 ```
