@@ -30,8 +30,8 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'ShareSmiles',
-        projectDesc: 'Developed a social media web app  allowing users to create accounts, post photos, and interact with the photos of their friends.',
-        tags: ['JavaScript','NodeJS', 'React','MongoDB'],
+        projectDesc: 'Developed a social media web app  allowing users to create accounts, post over 100 memories, and interact with the memories of their friends.',
+        tags: ['MongoDB','Express.js', 'React','Node.js'],
         code: 'https://github.com/sahil-1811/ShareSmiles',
         demo: 'https://github.com/sahil-1811/ShareSmiles',
         image: three
@@ -76,7 +76,7 @@ export const projectsData = [
         id: 8,
         projectName: 'Tenzies',
         projectDesc: "Tenzies is a React-based game that tests the player's quick thinking and reflexes",
-        tags: ['React'],
+        tags: ['JavaScript','React','Git'],
         code: 'https://github.com/sahil-1811/Tenzies',
         demo: 'https://github.com/sahil-1811/Tenzies',
         image: eight
