@@ -2,13 +2,13 @@ export const experienceData = [
     {
         id: 1,
         company: 'VteamLabs',
-        jobtitle: 'Data Analyst Intern',
+        jobtitle: 'Software Development Intern',
         startYear: 'Sep. 2022',
         endYear: 'Dec. 2022',
         duties: <ul>
-                    <li>Gained proficiency in SQL to query databases efficiently, extract relevant data, and contribute to data extraction and integration processes</li>
-                    <li>Created 8 Power BI dashboards for corporate clients to project Return on Investment, monitor accounts growth, new customer trend and monthly revenue data resulting in 93% customer retention</li>
-                    <li>Generated project reports that effectively communicated data insights to management and the team members</li>
+                    <li> Implemented 2 features for the Open edX course with over 500 students enrolled, using Python, Django, and JavaScript incrementing 35% online learning engagement</li>
+                    <li>Optimized the existing codebase by refactoring components to uplift performance, applying Agile methodologies and Git which boosted 20% website performance</li>
+                    <li>Assisted in remodeling Student Assessment System by automating grading and reducing manual effort</li>
                     <li> Collaborated with business analysts to understand customer needs and develop innovative solutions to enhance customer engagement and satisfaction.</li>
                 </ul>
     },
