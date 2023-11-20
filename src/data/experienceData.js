@@ -2,22 +2,35 @@ export const experienceData = [
     {
         id: 1,
         company: 'VteamLabs',
-        jobtitle: 'Software Development Intern',
-        startYear: 'Sep. 2022',
-        endYear: 'Dec. 2022',
+        jobtitle: 'Data Analyst',
+        startYear: 'Aug. 2023',
+        endYear: 'Oct. 2023',
         duties: <ul>
-                    <li> Implemented 2 features for the Open edX course with over 500 students enrolled, using Python, Django, and JavaScript incrementing 35% online learning engagement</li>
-                    <li>Optimized the existing codebase by refactoring components to uplift performance, applying Agile methodologies and Git which boosted 20% website performance</li>
-                    <li>Assisted in remodeling Student Assessment System by automating grading and reducing manual effort</li>
-                    <li> Collaborated with business analysts to understand customer needs and develop innovative solutions to enhance customer engagement and satisfaction.</li>
+                    <li> Developed and executed SQL queries for data retrieval and manipulation, ensuring data accuracy and reliability</li>
+                    <li>Collaborated with teams to implement database requests, create data pipelines, and maintain linked services and datasets in Azure Data Factory</li>
+                    <li> Contributed to data cleaning, transformation, and visualization by using tools like Power Query, DAX, and Power BI to create reports and dashboards</li>
+                    {/* <li> Collaborated with business analysts to understand customer needs and develop innovative solutions to enhance customer engagement and satisfaction.</li> */}
                 </ul>
     },
     {
         id: 2,
+        company: 'VteamLabs',
+        jobtitle: 'Data Analyst Intern',
+        startYear: 'Sep. 2022',
+        endYear: 'Dec. 2022',
+        duties: <ul>
+                    <li>Gained proficiency in SQL to query databases efficiently, extract relevant data, and contribute to data extraction and integration processes</li>
+                    <li> Created 8 Power BI dashboards for corporate clients to project Return on Investment, monitor accounts growth, new customer trend and monthly revenue data resulting in 93% customer retention</li>
+                    {/* <li>Assisted in remodeling Student Assessment System by automating grading and reducing manual effort</li> */}
+                    <li> Generated project reports that effectively communicated data insights to management and the team members</li>
+                </ul>
+    },
+    {
+        id: 3,
         company: 'Trivia Softwares',
-        jobtitle: 'Operations Analyst Intern',
+        jobtitle: 'Data Analyst Intern',
         startYear: 'Dec. 2019',
-        endYear: 'May 2021',
+        endYear: 'Feb. 2020',
         duties: <ul>
                     <li>Analyzed 1000+ students historical data using Excel spreadsheet, identified students’ academic performance trends and created quarterly reports for the 9 instructors getting visibility into cohorts’ performance</li>
                     <li>Presented analytics and findings of students’ and instructors’ performance using graphs to CEO and charts and identifying additional training & development opportunities for 249 underperforming students and 2 teachers</li>

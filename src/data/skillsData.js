@@ -3,7 +3,7 @@
     'MySQL',
     'PostgreSQL',
     'Javascript',
-    'Java',
+    'Azure',
     'React',
     'MongoDB',
     'Git',
