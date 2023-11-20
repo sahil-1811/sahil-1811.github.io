@@ -1,6 +1,19 @@
 export const experienceData = [
     {
         id: 1,
+        company: 'C2S Technologies.',
+        jobtitle: 'Data Engineer',
+        startYear: 'Nov. 2023',
+        endYear: 'Present',
+        duties: <ul>
+                    <li> Developed and optimized T-SQL scripts for data extraction, transformation, and loading in Microsoft SQL Server environments</li>
+                    {/* <li>Collaborated with teams to implement database requests, create data pipelines, and maintain linked services and datasets in Azure Data Factory</li>
+                    <li> Contributed to data cleaning, transformation, and visualization by using tools like Power Query, DAX, and Power BI to create reports and dashboards</li> */}
+                    <li> Improved data processing efficiency by 20% through performance tuning of SQL Server queries and optimization of Azure Data Factory pipelines.</li>
+                </ul>
+    },
+    {
+        id: 2,
         company: 'VteamLabs',
         jobtitle: 'Data Analyst',
         startYear: 'Aug. 2023',
@@ -13,7 +26,7 @@ export const experienceData = [
                 </ul>
     },
     {
-        id: 2,
+        id: 3,
         company: 'VteamLabs',
         jobtitle: 'Data Analyst Intern',
         startYear: 'Sep. 2022',
@@ -26,7 +39,7 @@ export const experienceData = [
                 </ul>
     },
     {
-        id: 3,
+        id: 4,
         company: 'Trivia Softwares',
         jobtitle: 'Data Analyst Intern',
         startYear: 'Dec. 2019',
