@@ -19,9 +19,9 @@ export const experienceData = [
         startYear: 'Aug. 2023',
         endYear: 'Oct. 2023',
         duties: <ul>
-                    <li> Developed and executed SQL queries for data retrieval and manipulation, ensuring data accuracy and reliability</li>
+                    <li> Engaged in querying and debugging SQL scripts including base tables, stored procedures, Functions, and views</li>
                     <li>Collaborated with teams to implement database requests, create data pipelines, and maintain linked services and datasets in Azure Data Factory</li>
-                    <li> Contributed to data cleaning, transformation, and visualization by using tools like Power Query, DAX, and Power BI to create reports and dashboards</li>
+                    <li>Led data cleaning, transformation, and visualization using Power Query, DAX, and Power BI, generating visually appealing reports and dashboards that empowered decision-making and improved user engagement</li>
                     {/* <li> Collaborated with business analysts to understand customer needs and develop innovative solutions to enhance customer engagement and satisfaction.</li> */}
                 </ul>
     },
@@ -32,7 +32,7 @@ export const experienceData = [
         startYear: 'Sep. 2022',
         endYear: 'Dec. 2022',
         duties: <ul>
-                    <li>Gained proficiency in SQL to query databases efficiently, extract relevant data, and contribute to data extraction and integration processes</li>
+                    <li> Identified data inconsistencies and errors in sales reports using SQL queries, leading to a 15% improvement in data accuracy and streamlined reporting processes</li>
                     <li> Created 8 Power BI dashboards for corporate clients to project Return on Investment, monitor accounts growth, new customer trend and monthly revenue data resulting in 93% customer retention</li>
                     {/* <li>Assisted in remodeling Student Assessment System by automating grading and reducing manual effort</li> */}
                     <li> Generated project reports that effectively communicated data insights to management and the team members</li>

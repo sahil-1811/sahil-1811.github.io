@@ -6,11 +6,30 @@ import five from '../assets/svg/projects/sample.svg'
 import six from '../assets/svg/projects/seven7.svg'
 import seven from '../assets/svg/projects/four4.svg'
 import eight from '../assets/svg/projects/seven.svg'
-
+import seven7 from '../assets/svg/projects/seven7.svg'
+import two2 from '../assets/svg/projects/two2.svg'
 
 export const projectsData = [
     {
         id: 1,
+        projectName: 'HR Attrition Analysis',
+        projectDesc: 'Designed pipeline using SSIS, Data Factory, and Synapse Analytics to ETL data for attrition analysis',
+        tags: ['Microsoft Power BI', 'SQL','Azure Data Factory','Azure Synapse Analytics'],
+        code: '',
+        demo: '',
+        image: seven7
+    },
+    {
+        id: 2,
+        projectName: 'Olympics Sight Engine',
+        projectDesc: 'Designed pipeline using SSIS, Data Factory, and Synapse Analytics to ETL data for attrition analysis',
+        tags: ['Microsoft Power BI', 'Azure Data Bricks','Azure Data Factory','Azure Synapse Analytics'],
+        code: '',
+        demo: '',
+        image: two2
+    },
+    {
+        id: 3,
         projectName: 'Boston Housing Pricing',
         projectDesc: 'Developed a Linear Regression Model to predict housing prices in the Boston area.',
         tags: ['Python', 'Flask','GIT','Docker'],
@@ -19,7 +38,7 @@ export const projectsData = [
         image: one
     },
     {
-        id: 2,
+        id: 4,
         projectName: 'Financial Complaints Analysis',
         projectDesc: 'Visualized 75k+ financial complaints data, highlighting trends areas of improvement, and customer dissatisfaction.',
         tags: ['Tableau'],
@@ -28,7 +47,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 3,
+        id: 5,
         projectName: 'ShareSmiles',
         projectDesc: 'Developed a social media web app  allowing users to create accounts, post over 100 memories, and interact with the memories of their friends.',
         tags: ['MongoDB','Express.js', 'React','Node.js'],
@@ -37,7 +56,7 @@ export const projectsData = [
         image: three
     },
     {
-        id: 4,
+        id: 6,
         projectName: 'Sentimental Analysis on Company Reviews',
         projectDesc: 'Implemented TextBlob Algorithm to gain an understanding of the public sentiment towards an election campaign and its slogans',
         tags: ['Python', 'Machine Learning'],
@@ -46,7 +65,7 @@ export const projectsData = [
         image: four
     },
     {
-        id: 5,
+        id: 7,
         projectName: 'Courshaala',
         projectDesc: 'Interactive web app to improve the technological capabilities of students enrolling in online courses offered by motivated instructors.',
         tags: ['JavaScript','NodeJS','MongoDB'],
@@ -55,7 +74,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 6,
+        id: 8,
         projectName: 'Airline Satisfaction Analysis',
         projectDesc: 'Customer responses regarding the quality of the airline’s customer service, the comfort and convenience of the flight, and the overall value for money.',
         tags: ['Python','Machine Learning'],
@@ -64,7 +83,7 @@ export const projectsData = [
         image: six
     },
     {
-        id: 7,
+        id: 9,
         projectName: 'Meme Generator',
         projectDesc: 'Developed the React components necessary for the app, such as a search bar to query for a meme template, a display area for the selected meme template, and a form to fill in the text for the meme.',
         tags: ['JavaScript','React','Git'],
@@ -73,7 +92,7 @@ export const projectsData = [
         image: seven
     },
     {
-        id: 8,
+        id: 10,
         projectName: 'Tenzies',
         projectDesc: "Tenzies is a React-based game that tests the player's quick thinking and reflexes",
         tags: ['JavaScript','React','Git'],
