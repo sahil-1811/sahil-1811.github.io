@@ -6,10 +6,10 @@ export const experienceData = [
         startYear: 'Nov. 2023',
         endYear: 'Present',
         duties: <ul>
-                    <li> Developed and optimized T-SQL scripts for data extraction, transformation, and loading in Microsoft SQL Server environments</li>
-                    {/* <li>Collaborated with teams to implement database requests, create data pipelines, and maintain linked services and datasets in Azure Data Factory</li>
-                    <li> Contributed to data cleaning, transformation, and visualization by using tools like Power Query, DAX, and Power BI to create reports and dashboards</li> */}
-                    <li> Improved data processing efficiency by 20% through performance tuning of SQL Server queries and optimization of Azure Data Factory pipelines.</li>
+                    <li> Implemented robust data replication processes for 18 tables containing 4M+ records, from on-premises SQL Server to Azure SQL Server utilizing SSIS.</li>
+                    <li> Utilized Azure Synapse Analytics for initial loading of all tables and integrated Change Tracking to identify and synchronize only the modified records, minimizing data transfer overhead and ensuring efficient use of resources.</li>
+                    <li> Implemented real-time replication of change tracking data to Azure SQL Server through SSIS pipelines, ensuring continuous synchronization at 5-minute intervals for up-to-date information.</li>
+                    <li> Developed an Azure Logic App pipeline to conduct data validation between source and destination tables, facilitating automated email notifications for any identified discrepancies.</li>
                 </ul>
     },
     {

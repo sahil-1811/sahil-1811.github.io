@@ -8,7 +8,6 @@
     'MongoDB',
     'Git',
     'Docker',
-    'Django',
     'Node JS',
     'HTML',
     'CSS',
