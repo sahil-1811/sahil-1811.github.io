@@ -7,7 +7,8 @@ export const experienceData = [
         endYear: 'Present',
         duties: <ul>
                     <p><b>Project: Fast Data Replication (Phase 2)</b></p>
-                    <li> Leveraged Databricks to continuously ingest streaming data from Azure EventHub, storing incoming JSON data in a single raw table in the bronze container and transforming it into structured tables within the same bronze layer.</li>
+                    <li> Drafted and operationalized an Azure cloud architecture blueprint for real-time data integration between On-Premise & cloud-based Dynamics 365 F&O; projected to generate an additional $15M annually.</li>
+                    <li> Developed data warehouse solution on Databricks using Azure cloud services by consolidating multiple data sources including real-time streaming data; it is the foundation for data & AI strategy roadmap.</li>
                     <li> Implemented data transformation logic to perform DML operations using change tracking columns and configured a continuous DLT pipeline to automate data processing and synchronization between bronze and silver catalogs.</li>
                     <li> Developed and scheduled a job to run every 5 minutes using Apache Spark and SQL to convert three traditional stored procedures into Databricks (DBX) format, automating the export of processed data in CSV format to Digital Spaces.</li>
                     <li> Conducted data validation checks and monitoring to maintain high data quality throughout the replication process.</li>
