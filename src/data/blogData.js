@@ -15,14 +15,14 @@ export const blogData = [
         image: 'https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg',
         url: 'https://www.coursera.org/account/accomplishments/verify/QPCWE5CQ9RGG'
     },
-    // {
-    //     id: 3,
-    //     title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-    //     description: 'Here are some basic ways to lay off the Radar',
-    //     date: 'Aug 14, 2020',
-    //     image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-    //     url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
-    // },
+    {
+        id: 3,
+        title: 'Certification: Databricks Certified Data Engineer Associate',
+        description: 'Validated proficiency in building and maintaining data workflows on Databricks, focusing on data engineering best practices',
+        date: 'July 02, 2024',
+        image: 'https://www.databricks.com/en-website-assets/static/3aefa334ca64a70c7a5cd8dd44812a5f/associate-badge-de1717145547.png',
+        url: 'https://credentials.databricks.com/926fbad8-408f-4bda-934f-a5aebca06d88#gs.e9depy'
+    }
     // {
     //     id: 4,
     //     title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',

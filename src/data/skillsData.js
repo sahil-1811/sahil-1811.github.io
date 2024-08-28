@@ -8,7 +8,7 @@
     'MongoDB',
     'Git',
     'Docker',
-    'Node JS',
+    // 'Node JS',
     'HTML',
     'CSS',
     'AWS',

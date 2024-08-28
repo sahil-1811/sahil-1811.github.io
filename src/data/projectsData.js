@@ -20,24 +20,6 @@ export const projectsData = [
         image: seven7
     },
     {
-        id: 2,
-        projectName: 'Olympics Sight Engine',
-        projectDesc: 'Designed pipeline using SSIS, Data Factory, and Synapse Analytics to ETL data for attrition analysis',
-        tags: ['Microsoft Power BI', 'Azure Data Bricks','Azure Data Factory','Azure Synapse Analytics'],
-        code: '',
-        demo: '',
-        image: two2
-    },
-    {
-        id: 3,
-        projectName: 'Boston Housing Pricing',
-        projectDesc: 'Developed a Linear Regression Model to predict housing prices in the Boston area.',
-        tags: ['Python', 'Flask','GIT','Docker'],
-        code: 'https://github.com/sahil-1811/Boston_House_Pricing',
-        demo: 'https://github.com/sahil-1811/Boston_House_Pricing',
-        image: one
-    },
-    {
         id: 4,
         projectName: 'Financial Complaints Analysis',
         projectDesc: 'Visualized 75k+ financial complaints data, highlighting trends areas of improvement, and customer dissatisfaction.',
@@ -45,15 +27,6 @@ export const projectsData = [
         code: 'https://github.com/sahil-1811/Tableau-Projects/tree/main/Financial%20Complaint%20Analysis',
         demo: 'https://github.com/sahil-1811/Tableau-Projects/tree/main/Financial%20Complaint%20Analysis',
         image: two
-    },
-    {
-        id: 5,
-        projectName: 'ShareSmiles',
-        projectDesc: 'Developed a social media web app  allowing users to create accounts, post over 100 memories, and interact with the memories of their friends.',
-        tags: ['MongoDB','Express.js', 'React','Node.js'],
-        code: 'https://github.com/sahil-1811/ShareSmiles',
-        demo: 'https://github.com/sahil-1811/ShareSmiles',
-        image: three
     },
     {
         id: 6,
@@ -65,14 +38,25 @@ export const projectsData = [
         image: four
     },
     {
-        id: 7,
-        projectName: 'Courshaala',
-        projectDesc: 'Interactive web app to improve the technological capabilities of students enrolling in online courses offered by motivated instructors.',
-        tags: ['JavaScript','NodeJS','MongoDB'],
-        code: '',
-        demo: '',
-        image: five
+        id: 3,
+        projectName: 'Boston Housing Pricing',
+        projectDesc: 'Developed a Linear Regression Model to predict housing prices in the Boston area.',
+        tags: ['Python', 'Flask','GIT','Docker'],
+        code: 'https://github.com/sahil-1811/Boston_House_Pricing',
+        demo: 'https://github.com/sahil-1811/Boston_House_Pricing',
+        image: one
     },
+   
+    {
+        id: 5,
+        projectName: 'ShareSmiles',
+        projectDesc: 'Developed a social media web app  allowing users to create accounts, post over 100 memories, and interact with the memories of their friends.',
+        tags: ['MongoDB','Express.js', 'React','Node.js'],
+        code: 'https://github.com/sahil-1811/ShareSmiles',
+        demo: 'https://github.com/sahil-1811/ShareSmiles',
+        image: three
+    },
+    
     {
         id: 8,
         projectName: 'Airline Satisfaction Analysis',
