@@ -69,7 +69,7 @@
     top: 50%;
     transform: translateY(-50%);
     width: 60px;
-    height: 60px;
+    height: 70px;
     border-radius: 50%;
 
     appearance: none;
@@ -141,12 +141,12 @@
 .review--content{
     margin: 0 auto;
     width: 90%;
-    height: 250px;
+    height: auto;
     border-radius: 200px;
 
     box-sizing: border-box;
     padding: 30px 40px;
-    padding-top: 60px;
+    padding-top: 90px;
 
     display: flex;
     flex-direction: column;
